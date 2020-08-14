@@ -3,4 +3,5 @@ void main()
 {
 printf("hii");
   printf("/nhello");
+  printf("junior update");
 }
